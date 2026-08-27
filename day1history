@@ -1,0 +1,73 @@
+sudo apt update
+ sudo apt install git
+ git --version
+ git --help
+ uname -a
+ hostnamectl
+ git clone https://github.com/ravinadh777/javahomeb1037am.git
+ ls -lrt
+ cd javahomeb1037am/
+ ls
+ mkdir calucaltor
+ cd calucaltor/
+ touch add.py
+ touch sub.py
+ touch mul.py
+ touch div.py
+ ls
+ ls -a
+ cd ..
+ ls -a
+ git init
+ ls -a
+ rm -rf .git
+ git init
+ git status
+ cd calucaltor/
+ git status
+ cd ..
+ git status
+ rm -rf .git
+ touch pradeep.py
+ git status
+ ls -a
+ git init
+ ls -a
+ touch pradeep1.py
+ git status
+ git add calucaltor/
+ git status
+ git rm --cached calucaltor/
+ git status
+ git rm --cached -r calucaltor/
+ git status
+ git add calucaltor/
+ git status
+ git commit -m "adding calu folder"
+ git status
+ git push
+ git config --global user.name ravinadh777
+ git config --global user.mail ravinathb8325@gmail.com
+ git remote -v
+ git remote add origin https://github.com/ravinadh777/javahomeb1037am.git
+ git remote -v
+ git push
+ git push -u origin main
+ git
+ git remote add origin https://github.com/ravinadh777/javahomeb1037am.git
+ git remote -v
+ git remote --help
+ git remote -v
+ git push -f
+ git push --set-upstream origin master
+ git status
+ git add ravi.py
+ git status
+ git commit -m "adding ravifile"
+ git push
+ git log
+ history
+ vi file1
+ cat file1
+ history | awk '{$1="";print}'
+ history | awk '{$1="";print}' > file2
