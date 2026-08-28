@@ -1,1 +1,44 @@
-
+cd javahomeb1037am/
+ 1941  ls
+ 1942  git pull
+ 1943  ls
+ 1944  git pull
+ 1945  git branch
+ 1946  git checkout  additonfeature-pradeep
+ 1947  git branch
+ 1948  ls
+ 1949  cd calucaltor/
+ 1950  ls
+ 1951  cat add.py
+ 1952  vi add.py
+ 1953  git status
+ 1954  git add .
+ 1955  git status
+ 1956  git commit -m "addition logic was added"
+ 1957  git  push
+ 1958  git  push -f
+ 1959  git branch
+ 1960  git checkout subtractionfeat-usha
+ 1961  ls
+ 1962  vi sub.py
+ 1963  git  branch
+ 1964  git add .
+ 1965  git commit -m "suntractiom logic"
+ 1966  git push -f
+ 1967  git branch
+ 1968  git braanch -D additonfeature-pradeep
+ 1969  git branch -D additonfeature-pradeep
+ 1970  git branch
+ 1971  git  switch master
+ 1972  git branch
+ 1973  git branch -D subtractionfeat-usha
+ 1974  git branch
+ 1975  git --help
+ 1976  git log
+ 1977  echo "de78bd99fa400762fdd26fcb16941f29fc1d5577"
+ 1978  echo "de78bd99fa400762fdd26fcb16941f29fc1d5577"| wc -w
+ 1979  echo "de78bd99fa400762fdd26fcb16941f29fc1d5577"| wc -c
+ 1980  man wc
+ 1981  echo "de78bd99fa400762fdd26fcb16941f29fc1d5577"| wc -w
+ 1982  echo "de78bd99fa400762fdd26fcb16941f29fc1d5577"| wc -c
+ 1983  history
